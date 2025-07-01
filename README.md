@@ -1,4 +1,4 @@
-# Personal Webpage Repository
+# Webpage Repository
 
 This repository contains the source code for my personal webpage built using **HTML**, **CSS**, and **JavaScript**.
 
